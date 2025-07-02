@@ -1,6 +1,16 @@
 # FLUTTER - Weather App
 
-A weather app by Daniel Joseph SAMBOU
+Une appli mobile weather par Daniel Joseph SAMBOU
+
+L'application s'ouvre avec avecune page d'accueil contenant le bouton 'get started'.
+Une fois appuyé sur ce bouton, une liste de villes apparait (avec comme ville par défaut London)
+L'utilisateur peut choisir la ou les villes qu'il veut consulter et ensuite il clique sur le bouton en bas à droite.
+Ensuite apparait la ville de Londres comme ville par défaut ainsi que les autres villes sélectionnées au préalables.
+La météo se synchronise avec la connexion internet donc il faut que l'utilisateur aie accès à internet!!!
+
+Enfin lorsqu'on appuie sur un jour précis, une page apparait pour donner plus de détails
+
+Bonne appreciation et bonne correction
 
 ## Getting Started
 
