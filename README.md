@@ -1,4 +1,4 @@
-# weather
+# FLUTTER - Weather App
 
 A weather app by Daniel Joseph SAMBOU
 
